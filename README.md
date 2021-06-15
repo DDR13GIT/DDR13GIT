@@ -1,4 +1,4 @@
-## Hey there, I'm  [Debopriya Deb Roy]() <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="50px"> 
+# Hey there, I'm  [Debopriya Deb Roy]() <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="50px"> 
 
 ### I'm an undergraduate student at Ahsanullah University of Science and Techonology. I try to bring the vision of stunning digital experience into life. Back in my college days, entering into a new world of technology seized my interest hence I choose software engineering as my major for undergraduate study. As an amateur trying in leisure for photography and creating YouTube content took a change for novelty.
 

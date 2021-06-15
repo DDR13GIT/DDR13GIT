@@ -8,7 +8,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=DDR13GIT")
 
 ## Contact Me:
-<a href="https://www.facebook.com/dhruba.datta.anjan/">
+<a href="https://www.facebook.com/debopriya.deb.roy/">
   <img align="left" alt="Deb's Facebook" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/debopriya_deb_roy">
@@ -17,10 +17,10 @@
 <a href="https://www.linkedin.com/in/debopriyadebroy/">
   <img align="left" alt="Deb's LinkedIN" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/DhrubaDattaAnjan">
+<a href="https://www.youtube.com/channel/UCVxQuVHJo8JZe_etepm5lXg">
   <img align="left" alt="Deb's Youtube" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/youtube.svg" />
 </a>
-<a href="https://www.twitter.com/dhruba_anjan/">
+<a href="https://twitter.com/DebopriyaDebRoy">
   <img align="left" alt="Deb's Twitter" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/twitter.svg" />
 </a>
 

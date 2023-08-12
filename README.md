@@ -15,11 +15,5 @@
 
 - 📄 Know about my experiences [ddroy.me](ddroy.me)
 
-
-## GitHub Status:
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=DDR13GIT&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="debopriya-deb-roy" /> 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DDR13GIT&theme=tokyonight_duo&hide_border=true&background=DD272700&fire=FF0000&ring=FF5403&currStreakNum=FF3A13" alt="debopriya-deb-roy" />
-
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddr13git&theme=darkhub" alt="ddr13git" /></a> </p>
 

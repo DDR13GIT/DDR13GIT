@@ -1,5 +1,5 @@
 # <p align="center"> Hey, I'm [DEBOPRIYA DEB ROY](https://ddroy.me)<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
-<h3 align="center">A passionate computer science and engineering student</h3>
+<h3 align="center">Always excited to learn new things.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ddr13git&label=Profile%20views&color=0e75b6&style=flat" alt="ddr13git" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DDR13GIT?tab=repositories](https://github.com/DDR13GIT?tab=repositories)

@@ -2,11 +2,6 @@
 <h3 align="center">A passionate computer science and engineering student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ddr13git&label=Profile%20views&color=0e75b6&style=flat" alt="ddr13git" /> </p>
 
-
-- 🔭 I’m currently working on [Bazar Sodai](https://github.com/DDR13GIT/BazarSodai)
-
-- 🌱 I’m currently learning **Data structures, Algorithms, Cloud services, Javascript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/DDR13GIT?tab=repositories](https://github.com/DDR13GIT?tab=repositories)
 
 - 💬 Ask me about **Java, Software development process**
